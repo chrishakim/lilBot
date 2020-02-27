@@ -1,0 +1,5 @@
+The .sch files are in ExpressSCH Classic format.
+The .pcb files are in ExpressPCB Classic format.
+Both ExpressSCH Classic and ExpressPCB Classic can be donloaded at https://www.expresspcb.com
+The .zip files contain Gerber (PCB manufacturing) files.
+PCBs can also be ordered directly through ExpressPCB Classic from the .pcb format.
